@@ -1,2 +1,0 @@
-# PixelCloud
-Tarea de lenguaje
